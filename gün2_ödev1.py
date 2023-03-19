@@ -70,5 +70,3 @@ def remove_moore():
 
 remove_moore()
 print(liste)
-        
-        

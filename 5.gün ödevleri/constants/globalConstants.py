@@ -1,0 +1,11 @@
+URL = "https://www.saucedemo.com/"
+inventor_URL = "https://www.saucedemo.com/inventory.html"
+error_empty_info = "Epic sadface: Username is required"
+error_empty_pw = "Epic sadface: Password is required"
+error_locked_out = "Epic sadface: Sorry, this user has been locked out."
+login_id = "login-button"
+user_id = "user-name"
+password_id = "password"
+products_name = ["Sauce Labs Backpack","Sauce Labs Bike Light","Sauce Labs Bolt T-Shirt","Sauce Labs Fleece Jacket","Sauce Labs Onesie","Test.allTheThings() T-Shirt (Red)"]
+add = "Add to cart"
+remove = "Remove"

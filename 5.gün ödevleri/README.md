@@ -7,3 +7,5 @@
 @pytest.mark.xfail: Bu decorator, bir test fonksiyonunun özellikle başarısız olacağı durumlarda kullanılır. Bu, testi başarısız olması beklenen bir hata durumu için kullanışlıdır.
 
 @pytest.mark.timeout: Bu decorator, bir test fonksiyonunun belirli bir süre içinde çalışmasını sağlar. Bu, testlerin çok uzun sürmesini önlemek için kullanışlıdır ve belirli bir süre içinde tamamlanmayan testler otomatik olarak başarısız olarak işaretlenir.
+
+![test sonucu](test_sonucu.png)

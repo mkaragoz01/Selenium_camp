@@ -1,0 +1,9 @@
+URL = "https://www.saucedemo.com/"
+inventor_URL = "https://www.saucedemo.com/inventory.html"
+login_id = "login-button"
+user_id = "user-name"
+password_id = "password"
+pay_null_fname_error = "Error: First Name is required"
+pay_null_lname_error = "Error: Last Name is required"
+pay_null_postalCode_error = "Error: Postal Code is required"
+first_product = ["Sauce Labs Backpack","Test.allTheThings() T-Shirt (Red)","Sauce Labs Onesie","Sauce Labs Fleece Jacket"]

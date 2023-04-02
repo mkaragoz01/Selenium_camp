@@ -8,4 +8,4 @@
 
 @pytest.mark.timeout: Bu decorator, bir test fonksiyonunun belirli bir süre içinde çalışmasını sağlar. Bu, testlerin çok uzun sürmesini önlemek için kullanışlıdır ve belirli bir süre içinde tamamlanmayan testler otomatik olarak başarısız olarak işaretlenir.
 
-![test sonucu](test_sonucu.png)
+![Adsız](https://user-images.githubusercontent.com/127658520/227809738-1864056c-0c12-4df5-b17c-173082827800.png)
